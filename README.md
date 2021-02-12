@@ -57,7 +57,7 @@ SHOW TABLES;
 ## Insert Row / Record
 
 ```sql
-INSERT INTO users (first_name, last_name, email, password, location, dept, is_admin, register_date) values ('Brad', 'Traversy', 'brad@gmail.com', '123456','Massachusetts', 'development', 1, now());
+INSERT INTO users (first_name, last_name, email, password, location, dept, is_admin, register_date) values ('Achref', 'Abdeljalil', 'Achabd@gmail.com', '123456','Tunisia', 'development', 1, now());
 ```
 
 ## Insert Multiple Rows
