@@ -155,13 +155,6 @@ SELECT * FROM users WHERE dept NOT LIKE 'd%';
 SELECT * FROM users WHERE dept IN ('design', 'sales');
 ```
 
-## Create & Remove Index
-
-```sql
-CREATE INDEX LIndex On users(location);
-DROP INDEX LIndex ON users;
-```
-
 ## New Table With Foreign Key (Posts)
 
 ```sql
