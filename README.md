@@ -25,6 +25,7 @@ USE acme;
 ```
 
 ## Create Table
+For more information [SQL Data type](https://www.w3schools.com/sql/sql_datatypes.asp)
 
 ```sql
 CREATE TABLE users(
